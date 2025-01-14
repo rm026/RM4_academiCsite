@@ -13,27 +13,37 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+<a href="file:///C:/Users/rmart/Desktop/Files/Education/Work/Job%20Hunt%20Documents/01142025_CV_Raul%20Martin%20IV.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 ## Education
 ---
 **In Progress**<br>
-Ph.D. in Knowledge<br>
-University<br>
-*Advisor: Prof. Albert Einstein*
+Ph.D. in English <br>
+University of Miami<br>
+*Miami, FL*
 
-**1990-2010**<br>
-B.S. in Partying<br>
-School<br>
-*Advisor: Prof. Paul Dirac*
+**2021-2023**<br>
+M.A. in Englishg<br>
+Lamar University<br>
+*Beaumont, TX*
+
+**2020-2021**
+M.S. Certificate in Foresight<br>
+University of Houston<br>
+*Houston, TX*
+
+**2020**<br>
+B.A. English and Modern Languages<br>
+Lamar University<br>
+*Beaumont, TX*
+
+**2018**
+A.A. Liberal Arts<br>
+Lamar State College Orange<br>
+*Orange, TX*
 
 ## Research experience
 ---
-
-**2015 - Present**<br>
-Position<br>
-I accomplished some things.<br>
-*Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
 
 
 ## Service and Outreach
