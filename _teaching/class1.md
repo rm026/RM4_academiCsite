@@ -9,7 +9,7 @@ semester: "Fall 2021 to Present"
 ---
 Responsible for an eight-week online section of DIRW 0400.
 Create course using Blackboard Original while adhearing to QM and LSCO standards.
-
+---
 title: "Adjunct Instructor - INRW 0173/0373"
 collection: teaching
 type: "Undergraduate course"
