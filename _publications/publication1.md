@@ -1,14 +1,5 @@
----
-title: "Publication 1"
-collection: publications
-permalink: /publications/publication1
-excerpt: "We did some things and then published them."
-date: 2012-03-20
-venue: 'Journal'
-classes: wide
----
 ## Summary
-tl;dr
+
 
 ## Contribution
 This is what I did!
